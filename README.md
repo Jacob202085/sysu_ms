@@ -1,2 +1,5 @@
-# sysu_ms
-I'm trying to submit some code to get familiar with this site again.
+# 3D卷积网络项目
+
+一个基于PyTorch的3D卷积神经网络实现，用于3D数据的回归任务。
+
+## 📁 项目结构
